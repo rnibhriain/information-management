@@ -1,4 +1,4 @@
-# information-management
+# Information Management II
 
 Project for module: CSU34041
 
